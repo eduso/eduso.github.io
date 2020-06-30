@@ -1,4 +1,22 @@
 ---
 label: general
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+    max: 150
+  label: Title
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
