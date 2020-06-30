@@ -13,18 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: [EduardoSojo.me]
-title_separator: "-"
-
+title: "[EduardoSojo.me]"
+title_separator: ""
+site.url: "https://eduardosojo.me"
+site.baseurl: "/es"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "".
 twitter_username: eduso
 github_username: eduso
 minimal_mistakes_skin: aqua
 search: true
+google_site_verification: "p2-BaXVS7UC813Wvhgmu3w9HTD6bdu8EYtQ4F_dIBBg
 
 # Build settings
 markdown: kramdown
@@ -33,8 +32,8 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: "America/Costa_Rica" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+repository: "eduso/eduso.github.io"
 include:
   - _pages
 
@@ -115,3 +114,22 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+  shortname: "eduardosojo"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-166929500-1"
+    anonymize_ip: false # default
+
+twitter:
+  username: "eduso"
+
+reCaptcha:
+    enabled: true
+    siteKey: "6Lf2vqsZAAAAAHRkfxTmvtiTVrmrDduOQ9h9UQDC" # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+    secret: "6Lf2vqsZAAAAAHA3S1nq89wMMWhKWB6dFFEUw1Hn" #
