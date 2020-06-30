@@ -20,3 +20,9 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+- name: excerpt_separator
+  type: text
+  config:
+    required: false
+  label: Excerpt separator
+  default: "<!--more-->"
