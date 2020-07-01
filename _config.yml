@@ -19,11 +19,11 @@ site.url: "https://eduardosojo.me"
 site.baseurl: "/es"
 email: "eduardoasojot@outlook.com"
 description: "".
-twitter_username: eduso
-github_username: eduso
-minimal_mistakes_skin: aqua
+twitter_username: "eduso"
+github_username: "eduso"
+minimal_mistakes_skin: "aqua"
 search: true
-google_site_verification: "p2-BaXVS7UC813Wvhgmu3w9HTD6bdu8EYtQ4F_dIBBg
+google_site_verification: "p2-BaXVS7UC813Wvhgmu3w9HTD6bdu8EYtQ4F_dIBBg"
 
 # Build settings
 markdown: kramdown
