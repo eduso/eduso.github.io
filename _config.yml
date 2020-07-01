@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "[EduardoSojo.me]"
-title_separator: ""
+title_separator: " "
 site.url: "https://eduardosojo.me"
 site.baseurl: "/es"
-email:
+email: "eduardoasojot@outlook.com"
 description: "".
 twitter_username: eduso
 github_username: eduso
