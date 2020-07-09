@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Mi nombre es Eduardo. Nací en la selva de concreto, [Caracas](https://es.wikipedia.org/wiki/Caracas), capital de [Venezuela](https://es.wikipedia.org/wiki/Venezuela). Me gradué en Ingeniero de Sistemas y en mi andar por el mundo de la tecnología he interactuado, aprendido y especializado en muchas cosas, hoy trabajo como especialista de Azure para soluciones de data, analítica e inteligencia artificial, donde ayudo a personas y organizaciones a definir, diseñar e implementar soluciones de datos y analítica.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Aunque comencé mi carrera profesional como desarrollador de software (desktop y web) con diferentes tecnologías (Visual Basic, C#, PHP, Python), hoy en día hago foco a soluciones de nube para datos, su procesamiento y explotación.
+
+Soy de los que creen que "El conocimiento es un bien que crece a medida que se comparte", por eso con cada aprendizaje, caída, levante y continuar me gusta compartir la experiencia y enriquecerme de la retroalimentación de otros.
+
+Bienvenido a mi blog :-)
