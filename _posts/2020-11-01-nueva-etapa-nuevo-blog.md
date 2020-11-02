@@ -16,4 +16,4 @@ Cuando quise retomar mi blog me conseguí con un Wordpress.com que cada vez cobr
 
 Buscando como objetivo una plataforma donde la administración sea reducida y pueda enfocarme en el contenido decidí el camino de Github Pages, el cual comienzo desde ahora y espero surtir de contenido de utilidad.
 
-Nos leemos...
+Nos leemos..
