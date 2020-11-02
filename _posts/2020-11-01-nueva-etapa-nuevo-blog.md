@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+- General
 tags:
 - github-pages
 excerpt_separator: "<!--more-->"
