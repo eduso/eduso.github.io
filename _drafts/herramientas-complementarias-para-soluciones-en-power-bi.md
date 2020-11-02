@@ -1,8 +1,8 @@
 ---
 categories:
-- Power BI
 - Herramientas
-tags: []
+tags:
+- power bi
 excerpt_separator: "<!--more-->"
 title: Herramientas complementarias para soluciones en Power BI
 images: []
