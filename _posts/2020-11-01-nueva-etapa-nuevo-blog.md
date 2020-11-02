@@ -6,7 +6,7 @@ tags:
 excerpt_separator: "<!--more-->"
 title: Nueva etapa nuevo blog
 images: []
-date: 2020-11-01 00:00:00 -0600
+date: 2020-11-01T00:00:00.000-06:00
 
 ---
 # Un nuevo comienzo
@@ -18,3 +18,5 @@ Cuando quise retomar mi blog me conseguí con un Wordpress.com que cada vez cobr
 Buscando como objetivo una plataforma donde la administración sea reducida y pueda enfocarme en el contenido decidí el camino de Github Pages, el cual comienzo desde ahora y espero surtir de contenido de utilidad.
 
 Nos leemos..
+
+<!--more-->
